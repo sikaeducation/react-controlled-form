@@ -1,0 +1,8 @@
+.App {
+  padding-top: 36px;
+}
+
+.App > p {
+  background-color: #fff;
+  padding: 36px;
+}
